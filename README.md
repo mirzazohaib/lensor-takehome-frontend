@@ -32,7 +32,7 @@ cd lensor-takehome-frontend
 
 # Install Dependencies
 
-npm install
+npm install<br>
 npm i leaflet react-leaflet react-leaflet-cluster
 
 # Build the Application
